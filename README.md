@@ -1,2 +1,2 @@
-# terraform-oci-modules
+# terraform-oci-netlb
 terraform oci modules
